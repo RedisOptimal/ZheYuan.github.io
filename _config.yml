@@ -1,15 +1,15 @@
-name: nadjetey
+name: zheyuan
 markdown: redcarpet
 pygments: true
-url: http://nadjetey.github.io
+url: http://zheyuan.github.io
 permalink: /:year/:month/:title/
 owner:
-    name: Nii Adjetey Sowah
-    twitter: _nadjetey
-    github: nadjetey
-    disqus_shortname: nadjetey
+    name: Zhe Yuan
+    twitter: yizer16
+    github: zheyuan
+    disqus_shortname: yizer16
 
 ga_id: UA-48177899-1
-ga_username: nadjetey.github.io
+ga_username: zheyuan.github.io
 
-timezone: Africa/Accra
+timezone: Asian/Harbin
