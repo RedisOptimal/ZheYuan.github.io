@@ -1,0 +1,17 @@
+---
+layout: default
+---          
+<div class="col-sm-12">
+    <div class="posts">
+        <div class="post">        
+            {{ content }} 
+
+            {% include scripts/signoff_block.html %}            
+        </div>    
+    </div>
+</div>
+<script>
+    $(".page-preview-icon").hover(function(){        
+        $(this).parents(".page-nav").css("z-index","5000");        
+    });
+</script>   
