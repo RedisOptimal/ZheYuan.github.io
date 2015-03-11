@@ -13,6 +13,7 @@
 >###工作及实习经历：
 >2014.10-至今&emsp;&emsp;[杭州微触科技有限公司](http://www.touclick.com)&emsp;&emsp;&emsp;&emsp;验证码项目负责人
 >>[将老版验证码重构、移植、优化、产品化](http://captcha.touclick.com/captcha)   
+>>下图为产品Demo,刷新可变没有校验机制   
 >>![Demo](http://captcha.touclick.com/captcha)
 
 >2013.3-2014.10&emsp;[人人网](http://www.renren.com)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;基础架构&hadoop组   
