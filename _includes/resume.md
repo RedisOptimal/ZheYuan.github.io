@@ -11,12 +11,12 @@
 2009.9-2013.7&emsp;哈尔滨工程大学&emsp;计算机科学与技术&emsp;本科
 
 >###工作及实习经历：
->2014.10-至今&emsp;&emsp;[杭州微触科技有限公司](http://www.touclick.com)&emsp;&emsp;&emsp;&emsp;验证码项目负责人
+>2015.1-2015.5&emsp;[杭州微触科技有限公司](http://www.touclick.com)&emsp;&emsp;&emsp;&emsp;验证码项目负责人
 >>[将老版验证码重构、移植、优化、产品化](http://captcha.touclick.com/captcha)   
 >>下图为产品Demo,刷新可变没有校验机制   
 >>![Demo](http://captcha.touclick.com/captcha)
 
->2013.3-2014.10&emsp;[人人网](http://www.renren.com)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;基础架构&hadoop组   
+>2013.3-2015.1&emsp;[人人网](http://www.renren.com)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;基础架构&hadoop组   
 >>负责人人网的Redis Cluster   
 >>[ZooKeeper监控报警平台](https://github.com/ZheYuan/Mario)  
 >>[ZooKeeper实现的服务注册与发现](https://github.com/ZheYuan/Zookeeper-Accessor)   
